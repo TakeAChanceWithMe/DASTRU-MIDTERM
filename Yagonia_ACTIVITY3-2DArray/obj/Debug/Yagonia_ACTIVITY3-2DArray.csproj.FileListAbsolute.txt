@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\bin\Debug\Yagonia_ACTIVITY3-2DArray.exe.config
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\bin\Debug\Yagonia_ACTIVITY3-2DArray.exe
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\bin\Debug\Yagonia_ACTIVITY3-2DArray.pdb
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\obj\Debug\Yagonia_ACTIVITY3-2DArray.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\obj\Debug\Yagonia_ACTIVITY3-2DArray.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\obj\Debug\Yagonia_ACTIVITY3-2DArray.exe
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\obj\Debug\Yagonia_ACTIVITY3-2DArray.pdb
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY3-2DArray\obj\Debug\Yagonia_ACTIVITY3-2DArray.exe.config
