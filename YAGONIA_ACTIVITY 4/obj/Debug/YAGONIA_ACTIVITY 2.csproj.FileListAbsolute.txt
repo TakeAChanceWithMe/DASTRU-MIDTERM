@@ -1,0 +1,16 @@
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\bin\Debug\YAGONIA_ACTIVITY 2.exe.config
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\bin\Debug\YAGONIA_ACTIVITY 2.exe
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\bin\Debug\YAGONIA_ACTIVITY 2.pdb
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.exe
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.pdb
+C:\Users\ACT-STUDENT\Desktop\Portfolio\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.exe.config
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\bin\Debug\YAGONIA_ACTIVITY 2.exe.config
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\bin\Debug\YAGONIA_ACTIVITY 2.exe
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\bin\Debug\YAGONIA_ACTIVITY 2.pdb
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.exe.config
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.exe
+C:\Users\ACT-STUDENT\Downloads\YAGONIA_ACTIVITY 2\obj\Debug\YAGONIA_ACTIVITY 2.pdb
