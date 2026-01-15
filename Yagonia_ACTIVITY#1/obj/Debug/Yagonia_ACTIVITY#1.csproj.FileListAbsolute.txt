@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\obj\Debug\Yagonia_ACTIVITY#1.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\obj\Debug\Yagonia_ACTIVITY#1.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\bin\Debug\Yagonia_ACTIVITY#1.exe.config
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\bin\Debug\Yagonia_ACTIVITY#1.exe
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\bin\Debug\Yagonia_ACTIVITY#1.pdb
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\obj\Debug\Yagonia_ACTIVITY#1.exe
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\obj\Debug\Yagonia_ACTIVITY#1.pdb
+C:\Users\ACT-STUDENT\Desktop\Portfolio\Yagonia_ACTIVITY#1\obj\Debug\Yagonia_ACTIVITY#1.exe.config
