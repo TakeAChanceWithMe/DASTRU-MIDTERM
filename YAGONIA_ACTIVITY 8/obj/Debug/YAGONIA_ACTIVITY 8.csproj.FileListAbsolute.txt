@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\bin\Debug\YAGONIA_ACTIVITY 8.exe.config
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\bin\Debug\YAGONIA_ACTIVITY 8.exe
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\bin\Debug\YAGONIA_ACTIVITY 8.pdb
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\obj\Debug\YAGONIA_ACTIVITY 8.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\obj\Debug\YAGONIA_ACTIVITY 8.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\obj\Debug\YAGONIA_ACTIVITY 8.exe
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\obj\Debug\YAGONIA_ACTIVITY 8.pdb
+C:\Users\ACT-STUDENT\Desktop\Homepage\YAGONIA_ACTIVITY 8\obj\Debug\YAGONIA_ACTIVITY 8.exe.config
